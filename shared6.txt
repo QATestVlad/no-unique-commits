@@ -1,0 +1,2 @@
+shared file 6
+extra line
